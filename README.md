@@ -46,3 +46,7 @@ Because [railway expects the service to start at 0.0.0.0](https://docs.railway.a
 
 - Production: 0.0.0.0
 - Development: 127.0.0.1
+
+## Credits
+
+- The Dockerfile is heavily inspired by [linux-china/axum-demo](https://github.com/linux-china/axum-demo)
