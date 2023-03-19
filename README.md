@@ -7,6 +7,8 @@ Railway axum starter template for Railway
 >
 > Maybe that's you, leave an Issue or PR, all input is appreciated
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/WOK8Vf?referralCode=qIV4GP)
+
 ## Links
 
 - [Railway](https://railway.app/)
