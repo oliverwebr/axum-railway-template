@@ -2,11 +2,6 @@
 
 Railway axum starter template for Railway
 
-> **Disclaimer** I'm new to rust, axum and railway ¯\\\_(ツ)\_/¯
-> I will leave this disclaimer until someone more experienced checks it out ;)
->
-> Maybe that's you, leave an Issue or PR, all input is appreciated
-
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/WOK8Vf?referralCode=qIV4GP)
 
 ## Links
